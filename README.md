@@ -11,7 +11,8 @@ REST api (notably all POST/edit actions on the db are unimplemented), but it doe
 
 ##Installation##
 You should install this library with npm:    
-	npm install brewerydb-node
+	npm install brewerydb-node for the original
+    npm install https://github.com/jdlars/brewerydb-node/tarball/master for the customized version utilized in BeerMeKC
 ##Documentation##
 ###How to use###
 	var BreweryDb = require('brewerydb-node');
